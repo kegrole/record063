@@ -1,0 +1,13 @@
+{
+  "pages": [
+    {"file": "p1_meta_utf8.html", "http_charset": ""},
+    {"file": "p2_header_gbk.html", "http_charset": "GBK"},
+    {"file": "p3_probe_utf8.html", "http_charset": ""},
+    {"file": "p4_probe_gbk.html", "http_charset": ""},
+    {"file": "p5_mojibake_latin1.html", "http_charset": ""},
+    {"file": "p6_mojibake_gbk.html", "http_charset": ""},
+    {"file": "p7_header_latin1.html", "http_charset": "latin-1"},
+    {"file": "p8_bad_declaration.html", "http_charset": ""},
+    {"file": "p9_bom_utf8.html", "http_charset": ""}
+  ]
+}
